@@ -1,8 +1,11 @@
 html, body {
   margin: auto;
 }
-canvas {
-  display: inline-flexblock;
+main{
+  display: inline-flex;
   float: center ;
   justify-content: center ;
+}
+canvas {
+  display: block;
 }
