@@ -3,6 +3,6 @@ html, body {
 }
 canvas {
   display: inline-block;
-  float: center ; 
+  float: center !important ; 
   margin: auto;
 }
